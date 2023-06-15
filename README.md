@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=header"/>
-<h1 align="center">Olá, sou a Flaviana Castelo</h1>
+
+<div align = 'center'>
+  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=D3679B&fontStyle=samakaran&text=Flaviana%20Castelo&height=150&fontSize=60&desc=Fortaleza,%20CE&descAlignY=75&descAlign=82.4"/>
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102080816/246168935-b72c80fb-4af8-4856-907f-dd4b3b8e9e78.gif" alt="Image Description" width="200px" align="center" >
   </div>
