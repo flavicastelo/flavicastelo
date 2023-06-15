@@ -1,13 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=header"/>
-
 <div align = 'center'>
-  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=D3679B&fontStyle=samakaran&text=Flaviana%20Castelo&height=150&fontSize=60&desc=Fortaleza,%20CE&descAlignY=75&descAlign=82.4"/>
+  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=D3679B&fontStyle=samakaran&text=Flaviana%20Castelo&height=50&fontSize=60&"/>
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/102080816/246168935-b72c80fb-4af8-4856-907f-dd4b3b8e9e78.gif" alt="Image Description" width="200px" align="center" >
   </div>
-
 <div align="center">
   <a href="https://github.com/flavicastelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavicastelo&show_icons=true&theme=panda&include_all_commits=false&count_private=true"/>
