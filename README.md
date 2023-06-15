@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=header"/>
 <h1 align="center">Olá, sou a Flaviana Castelo</h1>
   
 <div align="center">
@@ -32,3 +33,4 @@
 - 💻  Sou **estagiária na Envolve**
 - 🏠 Estudo **Análise e Desenvolvimento de Sistemas**
 - 🌱 Foco em aprender **Front-end**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=footer"/>
