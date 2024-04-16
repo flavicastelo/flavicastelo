@@ -35,7 +35,7 @@
 </div>
 <br/>
   
-- 💻  Sou **estagiária na Envolve**
+- 💻  Sou **FullStack Jr**
 - 🏠 Estudo **Análise e Desenvolvimento de Sistemas**
-- 🌱 Foco em aprender **Front-end**
+- 🌱 Foco em **Front-end**
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=footer"/>
