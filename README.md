@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4263&height=120&section=header"/>
 <div align = 'center'>
-  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=D3679B&fontStyle=samakaran&text=Flaviana%20Castelo&fontSize=45&desc=Fortaleza,%20CE&descSize=18&descAlignY=80&descAlign=70" />
+  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=c791eb&fontStyle=samakaran&text=Flaviana%20Castelo&fontSize=45&desc=Fortaleza,%20CE&descSize=18&descAlignY=80&descAlign=70" />
 </div>
 
 <div align="center">
@@ -8,8 +8,8 @@
   </div>
 <div align="center">
   <a href="https://github.com/flavicastelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavicastelo&show_icons=true&theme=panda&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavicastelo&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavicastelo&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavicastelo&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Flaviana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,4 +38,4 @@
 - 💻  Sou **Desenvolvedora Mobile**
 - 🏠 Estudo **Análise e Desenvolvimento de Sistemas**
 - 🌱 Foco em **Flutter**
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24a090&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4263&height=120&section=footer"/>
