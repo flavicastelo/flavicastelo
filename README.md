@@ -36,6 +36,6 @@
 <br/>
   
 - 💻  Sou **Desenvolvedora Mobile**
-- 🏠 Estudo **Análise e Desenvolvimento de Sistemas**
+- 🏠 Formada em **Análise e Desenvolvimento de Sistemas**
 - 🌱 Foco em **Flutter**
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4263&height=120&section=footer"/>
